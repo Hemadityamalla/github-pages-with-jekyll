@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Welcome to my website
 
-I'm glad you are here. I plan to talk about ...
+I am Hemaditya. 
+
+#### This is to test the markdown syntax
+
+$$\frac{\partial c}{\partial t} + \frac{\partial c}{\partial x} = 0.$$
